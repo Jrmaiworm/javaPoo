@@ -17,7 +17,7 @@ public class Principal {
 		
 		Conta destinatario = new Conta();
 		 
-		destinatario.nome="vasco";
+		destinatario.nome="vasco da gama";
 		destinatario.agencia="221";
 		destinatario.numero=557788;
 		destinatario.saldo=200;
